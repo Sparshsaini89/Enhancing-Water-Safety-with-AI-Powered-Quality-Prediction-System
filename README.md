@@ -1,7 +1,7 @@
 # 🌊 Enhancing Water Safety with an AI-Powered Quality Prediction System
 **Project:** AI-based Water Quality Prediction using Satellite Imagery (Sentinel-2 + Google Earth Engine)  
 **Author:** Sparsh Saini  
-**Notebook:** `/mnt/data/Water_quality.ipynb` *(replace with GitHub link after uploading)*
+**Notebook:** `https://github.com/Sparshsaini89/Enhancing-Water-Safety-with-AI-Powered-Quality-Prediction-System/blob/main/Water_quality.ipynb` 
 
 ---
 
